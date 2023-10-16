@@ -1,0 +1,15 @@
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\bin\Debug\net7.0\Join-two-strings-in-Csharp.exe
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\bin\Debug\net7.0\Join-two-strings-in-Csharp.deps.json
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\bin\Debug\net7.0\Join-two-strings-in-Csharp.runtimeconfig.json
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\bin\Debug\net7.0\Join-two-strings-in-Csharp.dll
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\bin\Debug\net7.0\Join-two-strings-in-Csharp.pdb
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\Join-two-strings-in-Csharp.csproj.AssemblyReference.cache
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\Join-two-strings-in-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\Join-two-strings-in-Csharp.AssemblyInfoInputs.cache
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\Join-two-strings-in-Csharp.AssemblyInfo.cs
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\Join-two-strings-in-Csharp.csproj.CoreCompileInputs.cache
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\Join-two-strings-in-Csharp.dll
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\refint\Join-two-strings-in-Csharp.dll
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\Join-two-strings-in-Csharp.pdb
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\Join-two-strings-in-Csharp.genruntimeconfig.cache
+D:\CSharp-String\CSharp-String\Join-two-strings-in-Csharp\obj\Debug\net7.0\ref\Join-two-strings-in-Csharp.dll

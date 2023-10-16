@@ -1,0 +1,15 @@
+D:\CSharp-String\CSharp-String\string_Clone\bin\Debug\net7.0\string_Clone.exe
+D:\CSharp-String\CSharp-String\string_Clone\bin\Debug\net7.0\string_Clone.deps.json
+D:\CSharp-String\CSharp-String\string_Clone\bin\Debug\net7.0\string_Clone.runtimeconfig.json
+D:\CSharp-String\CSharp-String\string_Clone\bin\Debug\net7.0\string_Clone.dll
+D:\CSharp-String\CSharp-String\string_Clone\bin\Debug\net7.0\string_Clone.pdb
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\string_Clone.csproj.AssemblyReference.cache
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\string_Clone.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\string_Clone.AssemblyInfoInputs.cache
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\string_Clone.AssemblyInfo.cs
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\string_Clone.csproj.CoreCompileInputs.cache
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\string_Clone.dll
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\refint\string_Clone.dll
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\string_Clone.pdb
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\string_Clone.genruntimeconfig.cache
+D:\CSharp-String\CSharp-String\string_Clone\obj\Debug\net7.0\ref\string_Clone.dll

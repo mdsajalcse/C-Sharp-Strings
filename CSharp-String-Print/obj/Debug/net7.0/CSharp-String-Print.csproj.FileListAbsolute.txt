@@ -1,0 +1,15 @@
+D:\CSharp-String\CSharp-String\CSharp-String-Print\bin\Debug\net7.0\CSharp-String-Print.exe
+D:\CSharp-String\CSharp-String\CSharp-String-Print\bin\Debug\net7.0\CSharp-String-Print.deps.json
+D:\CSharp-String\CSharp-String\CSharp-String-Print\bin\Debug\net7.0\CSharp-String-Print.runtimeconfig.json
+D:\CSharp-String\CSharp-String\CSharp-String-Print\bin\Debug\net7.0\CSharp-String-Print.dll
+D:\CSharp-String\CSharp-String\CSharp-String-Print\bin\Debug\net7.0\CSharp-String-Print.pdb
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\CSharp-String-Print.csproj.AssemblyReference.cache
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\CSharp-String-Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\CSharp-String-Print.AssemblyInfoInputs.cache
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\CSharp-String-Print.AssemblyInfo.cs
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\CSharp-String-Print.csproj.CoreCompileInputs.cache
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\CSharp-String-Print.dll
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\refint\CSharp-String-Print.dll
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\CSharp-String-Print.pdb
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\CSharp-String-Print.genruntimeconfig.cache
+D:\CSharp-String\CSharp-String\CSharp-String-Print\obj\Debug\net7.0\ref\CSharp-String-Print.dll

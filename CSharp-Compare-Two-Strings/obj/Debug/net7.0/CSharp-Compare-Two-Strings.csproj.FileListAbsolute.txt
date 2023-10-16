@@ -1,0 +1,15 @@
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\bin\Debug\net7.0\CSharp-Compare-Two-Strings.exe
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\bin\Debug\net7.0\CSharp-Compare-Two-Strings.deps.json
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\bin\Debug\net7.0\CSharp-Compare-Two-Strings.runtimeconfig.json
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\bin\Debug\net7.0\CSharp-Compare-Two-Strings.dll
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\bin\Debug\net7.0\CSharp-Compare-Two-Strings.pdb
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\CSharp-Compare-Two-Strings.csproj.AssemblyReference.cache
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\CSharp-Compare-Two-Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\CSharp-Compare-Two-Strings.AssemblyInfoInputs.cache
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\CSharp-Compare-Two-Strings.AssemblyInfo.cs
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\CSharp-Compare-Two-Strings.csproj.CoreCompileInputs.cache
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\CSharp-Compare-Two-Strings.dll
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\refint\CSharp-Compare-Two-Strings.dll
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\CSharp-Compare-Two-Strings.pdb
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\CSharp-Compare-Two-Strings.genruntimeconfig.cache
+D:\CSharp-String\CSharp-String\CSharp-Compare-Two-Strings\obj\Debug\net7.0\ref\CSharp-Compare-Two-Strings.dll

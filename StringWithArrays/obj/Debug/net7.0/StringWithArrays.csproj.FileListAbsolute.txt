@@ -1,0 +1,15 @@
+D:\CSharp-String\CSharp-String\StringWithArrays\bin\Debug\net7.0\StringWithArrays.exe
+D:\CSharp-String\CSharp-String\StringWithArrays\bin\Debug\net7.0\StringWithArrays.deps.json
+D:\CSharp-String\CSharp-String\StringWithArrays\bin\Debug\net7.0\StringWithArrays.runtimeconfig.json
+D:\CSharp-String\CSharp-String\StringWithArrays\bin\Debug\net7.0\StringWithArrays.dll
+D:\CSharp-String\CSharp-String\StringWithArrays\bin\Debug\net7.0\StringWithArrays.pdb
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\StringWithArrays.csproj.AssemblyReference.cache
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\StringWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\StringWithArrays.AssemblyInfoInputs.cache
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\StringWithArrays.AssemblyInfo.cs
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\StringWithArrays.csproj.CoreCompileInputs.cache
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\StringWithArrays.dll
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\refint\StringWithArrays.dll
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\StringWithArrays.pdb
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\StringWithArrays.genruntimeconfig.cache
+D:\CSharp-String\CSharp-String\StringWithArrays\obj\Debug\net7.0\ref\StringWithArrays.dll

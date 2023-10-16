@@ -1,0 +1,15 @@
+D:\CSharp-String\CSharp-String\StringExample-2\bin\Debug\net7.0\StringExample-2.exe
+D:\CSharp-String\CSharp-String\StringExample-2\bin\Debug\net7.0\StringExample-2.deps.json
+D:\CSharp-String\CSharp-String\StringExample-2\bin\Debug\net7.0\StringExample-2.runtimeconfig.json
+D:\CSharp-String\CSharp-String\StringExample-2\bin\Debug\net7.0\StringExample-2.dll
+D:\CSharp-String\CSharp-String\StringExample-2\bin\Debug\net7.0\StringExample-2.pdb
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\StringExample-2.csproj.AssemblyReference.cache
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\StringExample-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\StringExample-2.AssemblyInfoInputs.cache
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\StringExample-2.AssemblyInfo.cs
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\StringExample-2.csproj.CoreCompileInputs.cache
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\StringExample-2.dll
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\refint\StringExample-2.dll
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\StringExample-2.pdb
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\StringExample-2.genruntimeconfig.cache
+D:\CSharp-String\CSharp-String\StringExample-2\obj\Debug\net7.0\ref\StringExample-2.dll
